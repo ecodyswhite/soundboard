@@ -1,0 +1,29 @@
+button {
+    background-color: #cc5535;
+    border: none;
+    color: white;
+    padding: 50px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+    width: 20%;
+    transition-duration: 0.4s;
+
+    
+  }
+  
+  button:hover {
+      background-color: red;
+  }
+
+  body{
+      background-color: #bffffe;
+  }
+
+  div {
+    display:flex;
+    justify-content:space-around;
+    width: 60%;
+  }
